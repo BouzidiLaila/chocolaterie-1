@@ -28,5 +28,6 @@ public class ChocoService {
 	public ChocoData getData() {
 		return data;
 	}
+	// petite modification 
 	
 }
