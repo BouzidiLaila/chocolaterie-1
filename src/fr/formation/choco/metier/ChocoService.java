@@ -29,5 +29,6 @@ public class ChocoService {
 		return data;
 	}
 	// petite modification 
+	// modification depuis GitHube
 	
 }
